@@ -125,8 +125,8 @@ scipy
 
 ##  Reports
 
-- [`project1.pdf`](./inf2021149.pdf) — Detailed explanation of the M/M/1 and M/M/K simulations with sample outputs
-- [`Project1_networks_explaination.pdf`](./Project1_networks_explanation.pdf) — Detailed explanation of the network pathfinding code and result analysis
+- [`project1.pdf`](./project1.pdf) — Detailed explanation of the M/M/1 and M/M/K simulations with sample outputs
+- [`Project1_networks_explaination.pdf`](./Project1_networks_explaination.pdf) — Detailed explanation of the network pathfinding code and result analysis
 
 ---
 
