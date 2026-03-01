@@ -112,8 +112,8 @@ scipy
 
 ##  Reports
 
-- [`MM1_MMK.pdf`](./MM1_MMK.pdf) — Detailed explanation of the M/M/1 and M/M/K simulations with sample outputs
-- [`Project1_networks_explaination.pdf`](./Project1_networks_explaination.pdf) — Detailed explanation of the network pathfinding code and result analysis
+- [`MM1_MMK.pdf`](./MM1_MMK_Report/MM1_MMK.pdf) — Detailed explanation of the M/M/1 and M/M/K simulations with sample outputs
+- [`Network_Pathfinding_Simulation.pdf`](./Network_Pathfinding_Simulation_Report/Network_Pathfinding_Simulation.pdf) — Detailed explanation of the network pathfinding code and result analysis
 
 ---
 
