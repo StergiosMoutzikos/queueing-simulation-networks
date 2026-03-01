@@ -43,7 +43,7 @@ Simulated results are plotted against theoretical M/M/1 formulas for utilization
 
 **Run:**
 ```bash
-python inf2021149_MM1.py
+python MM1.py
 ```
 You will be prompted to enter:
 - Arrival rate λ (e.g. `1`)
@@ -58,7 +58,7 @@ Extends the simulation to K parallel servers. Each arriving customer is routed t
 
 **Run:**
 ```bash
-python inf2021149_MMK.py
+python MMK.py
 ```
 Additional prompt:
 - Number of servers K (e.g. `2`)
