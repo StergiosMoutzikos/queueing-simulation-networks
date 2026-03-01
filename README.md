@@ -71,7 +71,7 @@ Then compares three shortest-path algorithms:
 
 **Run:**
 ```bash
-python project1_networks.py
+python Network_Pathfinding_Simulation.py
 ```
 
 ---
