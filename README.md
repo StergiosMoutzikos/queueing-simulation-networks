@@ -19,7 +19,7 @@ This project consists of two parts:
 ```
 ├── MM1.py                             # M/M/1 queue simulation
 ├── MMK.py                             # M/M/K queue simulation (multi-server)
-├── project1_networks.py               # Network pathfinding (BFS, Dijkstra, A*)
+├── MM1_MMK.py                         # Network pathfinding (BFS, Dijkstra, A*)
 ├── project1.pdf                       # Full project report (queues)
 ├── Project1_networks_explanation.pdf  # Full project report (networks)
 ├── requirements.txt                   # Python dependencies
