@@ -17,20 +17,20 @@ This project consists of two parts:
 ##  Repository Structure
 
 ```
-├── MM1.py               # M/M/1 queue simulation
-├── MMK.py               # M/M/K queue simulation (multi-server)
-├── project1_networks.py            # Network pathfinding (BFS, Dijkstra, A*)
-├── project1.pdf                  # Full project report (queues)
+├── MM1.py                             # M/M/1 queue simulation
+├── MMK.py                             # M/M/K queue simulation (multi-server)
+├── project1_networks.py               # Network pathfinding (BFS, Dijkstra, A*)
+├── project1.pdf                       # Full project report (queues)
 ├── Project1_networks_explanation.pdf  # Full project report (networks)
-├── requirements.txt                # Python dependencies
-└── README.md                       # This file
+├── requirements.txt                   # Python dependencies
+└── README.md                          # This file
 ```
 
 ---
 
 ##  Part 1 — Queueing Theory (M/M/1 & M/M/K)
 
-### M/M/1 Queue (`inf2021149_MM1.py`)
+### M/M/1 Queue (`MM1.py`)
 
 Simulates a single-server queue with Poisson arrivals and exponential service times.
 
@@ -52,7 +52,7 @@ You will be prompted to enter:
 
 ---
 
-### M/M/K Queue (`inf2021149_MMK.py`)
+### M/M/K Queue (`MMK.py`)
 
 Extends the simulation to K parallel servers. Each arriving customer is routed to the server with the shortest queue.
 
@@ -125,7 +125,7 @@ scipy
 
 ##  Reports
 
-- [`inf2021149.pdf`](./inf2021149.pdf) — Detailed explanation of the M/M/1 and M/M/K simulations with sample outputs
+- [`project1.pdf`](./inf2021149.pdf) — Detailed explanation of the M/M/1 and M/M/K simulations with sample outputs
 - [`Project1_networks_explanation.pdf`](./Project1_networks_explanation.pdf) — Detailed explanation of the network pathfinding code and result analysis
 
 ---
