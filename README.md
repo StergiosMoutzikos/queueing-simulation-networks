@@ -19,8 +19,8 @@ This project consists of two parts:
 ```
 ├── MM1.py                             # M/M/1 queue simulation
 ├── MMK.py                             # M/M/K queue simulation (multi-server)
-├── MM1_MMK.py                         # Network pathfinding (BFS, Dijkstra, A*)
-├── project1.pdf                       # Full project report (queues)
+├── project1_networks.py               # Network pathfinding (BFS, Dijkstra, A*)
+├── MM1_MMK.pdf                        # Full project report (queues)
 ├── Project1_networks_explanation.pdf  # Full project report (networks)
 ├── requirements.txt                   # Python dependencies
 └── README.md                          # This file
@@ -125,7 +125,7 @@ scipy
 
 ##  Reports
 
-- [`project1.pdf`](./project1.pdf) — Detailed explanation of the M/M/1 and M/M/K simulations with sample outputs
+- [`MM1_MMK.pdf`](./MM1_MMK.pdf) — Detailed explanation of the M/M/1 and M/M/K simulations with sample outputs
 - [`Project1_networks_explaination.pdf`](./Project1_networks_explaination.pdf) — Detailed explanation of the network pathfinding code and result analysis
 
 ---
