@@ -15,8 +15,6 @@ This project consists of two parts:
 ---
 
 
----
-
 ##  Part 1 — Queueing Theory (M/M/1 & M/M/K)
 
 ### M/M/1 Queue (`MM1.py`)
